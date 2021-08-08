@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/plants/static/css/main.faddb382.chunk.css",
+    "main.js": "/plants/static/js/main.53e8c6f0.chunk.js",
+    "main.js.map": "/plants/static/js/main.53e8c6f0.chunk.js.map",
+    "runtime-main.js": "/plants/static/js/runtime-main.921c8b7a.js",
+    "runtime-main.js.map": "/plants/static/js/runtime-main.921c8b7a.js.map",
+    "static/css/2.41953c31.chunk.css": "/plants/static/css/2.41953c31.chunk.css",
+    "static/js/2.f262fa89.chunk.js": "/plants/static/js/2.f262fa89.chunk.js",
+    "static/js/2.f262fa89.chunk.js.map": "/plants/static/js/2.f262fa89.chunk.js.map",
+    "index.html": "/plants/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/plants/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.faddb382.chunk.css.map": "/plants/static/css/main.faddb382.chunk.css.map",
+    "static/js/2.f262fa89.chunk.js.LICENSE.txt": "/plants/static/js/2.f262fa89.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/plants/static/media/5-background.3e0ab00d.jpg",
+    "static/media/aglaonema-spotted-star.acfe9080.jpg": "/plants/static/media/aglaonema-spotted-star.acfe9080.jpg",
+    "static/media/aloe-vera.dcb1cafd.jpg": "/plants/static/media/aloe-vera.dcb1cafd.jpg",
+    "static/media/asplenium-nidus.28bb88c1.jpg": "/plants/static/media/asplenium-nidus.28bb88c1.jpg",
+    "static/media/cactus.3dae22e5.jpg": "/plants/static/media/cactus.3dae22e5.jpg",
+    "static/media/calathea-maui-queen.d9ed1458.jpg": "/plants/static/media/calathea-maui-queen.d9ed1458.jpg",
+    "static/media/chinese-banyan.28104a0f.jpg": "/plants/static/media/chinese-banyan.28104a0f.jpg",
+    "static/media/fiddle-leaf-fig.09c4b275.jpg": "/plants/static/media/fiddle-leaf-fig.09c4b275.jpg",
+    "static/media/good-luck-palm.a8052336.jpg": "/plants/static/media/good-luck-palm.a8052336.jpg",
+    "static/media/monstera-obliqua.f756bad4.jpg": "/plants/static/media/monstera-obliqua.f756bad4.jpg",
+    "static/media/philodendron-verrucosum.1b82cb75.jpg": "/plants/static/media/philodendron-verrucosum.1b82cb75.jpg",
+    "static/media/satin-pothos.4ddaaa8a.jpg": "/plants/static/media/satin-pothos.4ddaaa8a.jpg",
+    "static/media/senecio-mont-blanc.329b516d.jpg": "/plants/static/media/senecio-mont-blanc.329b516d.jpg",
+    "static/media/snake-plant.f66229fa.jpg": "/plants/static/media/snake-plant.f66229fa.jpg",
+    "static/media/succulent.df5e584e.jpg": "/plants/static/media/succulent.df5e584e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921c8b7a.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.f262fa89.chunk.js",
+    "static/css/main.faddb382.chunk.css",
+    "static/js/main.53e8c6f0.chunk.js"
+  ]
+}
