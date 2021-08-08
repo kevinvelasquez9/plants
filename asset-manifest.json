@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/plants/static/css/main.faddb382.chunk.css",
-    "main.js": "/plants/static/js/main.53e8c6f0.chunk.js",
-    "main.js.map": "/plants/static/js/main.53e8c6f0.chunk.js.map",
+    "main.js": "/plants/static/js/main.268d8bed.chunk.js",
+    "main.js.map": "/plants/static/js/main.268d8bed.chunk.js.map",
     "runtime-main.js": "/plants/static/js/runtime-main.921c8b7a.js",
     "runtime-main.js.map": "/plants/static/js/runtime-main.921c8b7a.js.map",
     "static/css/2.41953c31.chunk.css": "/plants/static/css/2.41953c31.chunk.css",
-    "static/js/2.f262fa89.chunk.js": "/plants/static/js/2.f262fa89.chunk.js",
-    "static/js/2.f262fa89.chunk.js.map": "/plants/static/js/2.f262fa89.chunk.js.map",
+    "static/js/2.27cab1a6.chunk.js": "/plants/static/js/2.27cab1a6.chunk.js",
+    "static/js/2.27cab1a6.chunk.js.map": "/plants/static/js/2.27cab1a6.chunk.js.map",
     "index.html": "/plants/index.html",
     "static/css/2.41953c31.chunk.css.map": "/plants/static/css/2.41953c31.chunk.css.map",
     "static/css/main.faddb382.chunk.css.map": "/plants/static/css/main.faddb382.chunk.css.map",
-    "static/js/2.f262fa89.chunk.js.LICENSE.txt": "/plants/static/js/2.f262fa89.chunk.js.LICENSE.txt",
+    "static/js/2.27cab1a6.chunk.js.LICENSE.txt": "/plants/static/js/2.27cab1a6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/plants/static/media/5-background.3e0ab00d.jpg",
     "static/media/aglaonema-spotted-star.acfe9080.jpg": "/plants/static/media/aglaonema-spotted-star.acfe9080.jpg",
     "static/media/aloe-vera.dcb1cafd.jpg": "/plants/static/media/aloe-vera.dcb1cafd.jpg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.921c8b7a.js",
     "static/css/2.41953c31.chunk.css",
-    "static/js/2.f262fa89.chunk.js",
+    "static/js/2.27cab1a6.chunk.js",
     "static/css/main.faddb382.chunk.css",
-    "static/js/main.53e8c6f0.chunk.js"
+    "static/js/main.268d8bed.chunk.js"
   ]
 }
